@@ -1,4 +1,6 @@
+import React from "react";
 import { Zoom } from "react-reveal";
+
 import Fade from 'react-reveal/Fade';
 function About() {
     return (
